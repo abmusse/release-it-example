@@ -5,3 +5,4 @@ Example repository to test out the [release-it](https://www.npmjs.com/package/re
 # Versions
 - 1.0.0
 - 1.0.1
+- 1.0.2
